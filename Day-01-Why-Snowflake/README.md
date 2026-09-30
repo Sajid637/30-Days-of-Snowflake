@@ -6,7 +6,8 @@ Day-01-Why-Snowflake/
 <img width="938" height="481" alt="image" src="https://github.com/user-attachments/assets/dc1898de-cbee-4d16-a8f1-4b222c64bf74" />
 
 DAY 1 — WHY DO WE NEED SNOWFLAKE?
- 
+<img width="299" height="194" alt="image" src="https://github.com/user-attachments/assets/8df2f785-d026-40aa-8ec1-b30c0e7d6ab6" />
+
 Before we start writing:
 SELECT *
 FROM CUSTOMER;
@@ -50,7 +51,7 @@ Orders              Billions
 Data                   100+ TB
 Everyone:
 "WHO CREATED THIS COMPANY?!" 😭😂
- 
+ <img width="421" height="320" alt="image" src="https://github.com/user-attachments/assets/225058c7-48bc-4adf-9cef-ba321de855f3" />
 Now the company needs to answer questions like:
 Which products sell the most?
 Which customers are most active?
